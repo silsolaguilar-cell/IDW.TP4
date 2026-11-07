@@ -1,0 +1,6 @@
+Grupo 15
+"Aguilar Silvina Soledad",
+"Beltran Lucas Samuel ",
+"Calviño Micaela",
+"Rodriguez Federico Jose",
+"Vicentín Nicolás "
